@@ -1,0 +1,33 @@
+h1{
+   font-family: 'KaushanScriptRegular';
+   font-weight: normal;
+   font-style: normal;
+   text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+/* top, right, bottom, left */
+td{
+    height: 200px;
+    width: 100px;
+    align: center;
+}
+
+#one{
+    background-color: #0a172c
+}
+#two{
+    background-color: #133156
+}
+#three{
+    background-color: #406db0
+}
+#fout{
+    background-color: #4f91cd
+}
+#five{
+    background-color: #eff1f0
+}
